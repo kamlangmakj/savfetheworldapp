@@ -1,0 +1,6 @@
+dependencies: \
+  /Applications/MAMP/htdocs/savfetheworldapp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.m \
+  /Applications/MAMP/htdocs/savfetheworldapp/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Applications/MAMP/htdocs/savfetheworldapp/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Applications/MAMP/htdocs/savfetheworldapp/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Applications/MAMP/htdocs/savfetheworldapp/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h
